@@ -26,12 +26,8 @@
 
 
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/syzl-io/syzl">
-    <img src="https://storage.googleapis.com/syzl-bucket-1/syzl-logo.svg" alt="Logo" width="250" height="250">
-  </a>
 
 <h3 align="center">Syzl App</h3>
 
@@ -85,6 +81,11 @@ Project Link: [https://github.com/syzl-io/syzl](https://github.com/syzl-io/syzl)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<div align="center">
+  <a href="https://github.com/syzl-io/syzl">
+    <img src="https://storage.googleapis.com/syzl-bucket-1/syzl-logo.svg" alt="Logo" width="250" height="250">
+  </a>  
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
