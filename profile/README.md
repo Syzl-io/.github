@@ -32,7 +32,7 @@
 <h3 align="center">Syzl App</h3>
 
   <p align="center">
-    The Syzl Ionic App provides the end-user experience for both hosts and renters to meet, establish trust and foster mutually beneficial transactions
+    The Syzl platform provides the end-user experience for both hosts and renters to meet, establish trust and foster mutually beneficial transactions
     <br />
     <a href="https://github.com/syzl-io/syzl"><strong>Explore the docs »</strong></a>
     <br />
