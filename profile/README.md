@@ -83,7 +83,7 @@ Project Link: [https://github.com/syzl-io/syzl](https://github.com/syzl-io/syzl)
 
 <div align="center">
   <a href="https://github.com/syzl-io/syzl">
-    <img src="https://storage.googleapis.com/syzl-bucket-1/syzl-logo.svg" alt="Logo" width="250" height="250">
+    <img src="https://storage.googleapis.com/syzl-prod/Logo%20Variants%20Blue.svg" alt="Logo" width="250" height="250">
   </a>  
 </div>
 
@@ -101,4 +101,4 @@ Project Link: [https://github.com/syzl-io/syzl](https://github.com/syzl-io/syzl)
 [license-url]: https://github.com/syzl-io/syzl/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/syzl
-[product-screenshot]: https://storage.googleapis.com/syzl-bucket-1/SZL%20-%20Linkedin%20cover.png
+[product-screenshot]: https://storage.googleapis.com/syzl-prod/Linkedin%20Banner%20(2)%20(1).png
